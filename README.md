@@ -1,9 +1,3 @@
-<div align="center">
-<img src="https://github.com/Masthell/Masthell/blob/main/brave_screenshot_i.pinimg.com.png" 
-     width="100%" 
-     style="border-radius: 10px; height: 130px; object-fit: cover;">
-</div>
-
 # 🎧 M. Damila
 **`SysAdmin Enthusiast | Linux · Docker · Cybersecurity`**
 
