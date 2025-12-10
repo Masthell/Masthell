@@ -1,4 +1,4 @@
-# 🎧 M. Damila
+# Damila
 **`SysAdmin Enthusiast | Linux · Docker · Cybersecurity`**
 
 🛠️ Building a home lab and writing scripts<br> 🛡️ Practicing security on TryHackMe <br> 📈 Preparing to move to infrastructure <br>
