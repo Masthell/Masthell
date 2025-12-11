@@ -1,8 +1,16 @@
-# Damila
-**`SysAdmin Enthusiast | Linux · Docker · Cybersecurity`**
+### Инфраструктура / DevOps
+Решаю инфраструктурные задачи в Homelab, ищу команду для старта
 
-🛠️ Building a home lab and writing scripts<br> 🛡️ Practicing security on TryHackMe <br> 📈 Preparing to move to infrastructure <br>
+**Стек:** Linux | Docker | Bash | Git | Networking
 
-## 💻 Tech Stack:
+**Практикую на реальном железе:**
+- Подняла Ubuntu Server с Docker
+- Настроила мониторинг: Prometheus + Grafana
+- Собрала отказоустойчивый веб-сервис: Nginx + keepalived в контейнерах
+- Автоматизирую настройку через Ansible (изучаю)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Цель:** Младший системный администратор → DevOps
+
+---
+📫 Контакты  
+[TG](ссылка) | [Резюме](ссылка) | [База знаний](ссылка)
