@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Привет!
+Я изучаю **информационную безопасность** и **системное администрирование**.  
+Интересуюсь автоматизацией, сетями и всем, что связано с внутренней кухней IT.  
+Моя цель — развиваться в сторону **DevOps**, проходя через опыт системного администрирования.
 
-<!--
-**Masthell/Masthell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Что я умею и использую
+- Windows Server, Linux (Ubuntu/CentOS), Active Directory, VirtualBox / Hyper-V
+- TCP/IP, DHCP, DNS, базовая настройка сетевого оборудования
+- Основы InfoSec, защита данных, аудит безопасности
+- Бэкенд / Фронтенд (базово), Python, работа с Git
+- Linux CLI, Git, Виртуальные машины
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты
+- Email: mutalidamila@gmail.com
+- LinkedIn: www.linkedin.com/in/дамила-мутали-37a5693aa
