@@ -5,5 +5,4 @@
 
 ---
 
-### Контакты
 - Email: mutalidamila@gmail.com
