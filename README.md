@@ -14,4 +14,3 @@
 
 ### Контакты
 - Email: mutalidamila@gmail.com
-- LinkedIn: www.linkedin.com/in/дамила-мутали-37a5693aa
