@@ -5,4 +5,3 @@
 
 ---
 
-- Email: mutalidamila@gmail.com
