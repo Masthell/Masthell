@@ -10,7 +10,7 @@ Blue Team / AppSec / InfraSec. Автоматизация мониторинга
 |--------|----------|------------|
 | [Monitoring Stack](https://github.com/Masthell/monitoring-stack) | Полный стек мониторинга Docker-сред. Сбор 5+ метрик, визуализация, автодеплой. | Docker, Prometheus, Grafana, Bash |
 | [Monitoring Access Control](https://github.com/Masthell/monitoring_access_control) | Система контроля доступа с авторизацией и мониторингом. | FastAPI, JWT, React, TypeScript, MySQL, Alembic |
-| [VisionHands](https://github.com/Masthell/VisionHands) | Авторизация и управление курсором жестами. Точность >85%, 30 fps. | Python, MediaPipe, OpenCV |
+| [VisionHands](https://github.com/Masthell/VisionHands) | ИИ-система бесконтактного управления ПК жестами. Трекинг 21 точки ладони, 2 профиля (ОС/YouTube), 4-этапная авторизация. | Python, MediaPipe, PySide6, OpenCV |
 
 ---
 ## Контакты
